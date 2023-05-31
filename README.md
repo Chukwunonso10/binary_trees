@@ -1,0 +1,1 @@
+A binary tree is a data structure that consists of nodes organized in a hierarchical manner. Each node in a binary tree can have at most two child nodes, referred to as the left child and the right child. The nodes in a binary tree are connected by edges.
